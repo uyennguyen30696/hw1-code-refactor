@@ -1,7 +1,7 @@
 # BC-Class-Activity-Sept-23
 # 01 HTML CSS Git: Code Refactor
 
-<img src="code-refractor-screenshot.jpg">
+<img src="code-refractor-screenshot.jpg" alt="marketing meeting" width="300px" height="500">
 
 ## Link
 
