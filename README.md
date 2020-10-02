@@ -10,7 +10,7 @@
 The purpose of this homework is to improve the giving codebase by reworking the HTML and CSS to make the web page more efficient accessible.
 
 Changes made in HTML:
-Add alt tags for images in the HTML
+Add alt tags for images in the HTML <br>
 Fixed the internal links to make them work properly
 Change non-semantic elements into semantic elements
 
