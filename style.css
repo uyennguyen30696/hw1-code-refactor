@@ -7,6 +7,15 @@
 body {
     background-color: #d9dcd6;
 }
+/* Move a and p elemtns here following the body element */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
 
 .header {
     padding: 20px;
@@ -41,28 +50,25 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /* Delete url, add img in html file*/
+/* Delete url, add img in html file*/
     background-size: cover;
     background-position: center;
     
 }
-
+/* Add size for center image */
 .center-image{ 
     height: 800px;
     width: 100%;
+}
+/* Move content class to before the float classes */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -75,11 +81,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 .benefits {
     margin-right: 20px;
