@@ -1,6 +1,12 @@
 # BC-Class-Activity-Sept-23
 # 01 HTML CSS Git: Code Refactor
 
+## Link
+
+ https://uyennguyen30696.github.io/hw1-code-refactor/
+
+## Description
+
 The purpose of this homework is to improve the giving codebase by reworking the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 ## User Story
