@@ -1,6 +1,8 @@
 # BC-Class-Activity-Sept-23
 # 01 HTML CSS Git: Code Refactor
 
+<img src="code-refractor-screenshot.jpg">
+
 ## Link
 
  https://uyennguyen30696.github.io/hw1-code-refactor/
